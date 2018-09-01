@@ -1,0 +1,36 @@
+
+*{margin:0px;
+padding:0px;
+
+	
+}
+p1{
+	color:grey;
+	font-size: 100px;
+	color:green;
+	
+	text-decoration: underline;
+}
+p2{
+	color:black;
+	font-size: 50px;
+	
+	
+
+}
+.profile_pic{
+	float:left;
+	margin:40px;
+
+}
+ul
+{
+
+	font-size:50px;
+	color:white;
+	
+	
+}
+p3{
+	font-size:15px;
+}
